@@ -1,6 +1,6 @@
 # github-practice-eklow
 ## Set up new repo:
-````
+
 ```bash
 mkdir <your-repo-name>
 cd <your-repo-name>
@@ -25,4 +25,3 @@ git branch -d fix-header # remove local
 git push origin --delete fix-header # remove from github
 ```
 
-´´´````
